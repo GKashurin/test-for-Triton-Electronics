@@ -14,7 +14,7 @@ const Home = () => {
 	const cartItems = useSelector(({ cart }) => cart.items);
 
 	useEffect(() => {
-		axios.get("http://localhost:3000/db.json")
+		axios.get("../../public/db.json")
 		.then(({ data }) => {
 		dispatch(setCats(data));
 		});
