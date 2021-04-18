@@ -1,0 +1,60 @@
+{
+  "cats": [
+    {
+      "id": 0,
+      "imageUrl": "https://avatarko.ru/img/kartinka/2/zhivotnye_kot_kapyushon_1650.jpg",
+      "name": "Котик в капюшоне",
+      "price": 5290
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://avatarko.ru/img/kartinka/17/zhivotnye_kotenok_16520.jpg",
+      "name": "Котик любопытный",
+      "price": 3790
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://avatarko.ru/img/kartinka/25/zhivotnye_shlyapa_kotenok_24660.jpg",
+      "name": "Котик в шляпе",
+      "price": 4690
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://avatarko.ru/img/kartinka/31/zhivotnye_kotenok_oduvanchik_30879.jpg",
+      "name": "Котик в одуванчиках",
+      "price": 5390
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://avatarko.ru/img/kartinka/9/zhivotnye_kot_8987.jpg",
+      "name": "Котик суровый",
+      "price": 4690
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://avatarko.ru/img/kartinka/3/zhivotnye_kot_2089.jpg",
+      "name": "Котик удивленный",
+      "price": 3990
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://avatarko.ru/img/kartinka/10/zhivotnye_kot_son_9760.jpg",
+      "name": "Котик сонный",
+      "price": 4790
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://kor.ill.in.ua/m/610x385/1640895.jpg",
+      "name": "Котик пафосный",
+      "price": 4990
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://cs6.pikabu.ru/post_img/big/2015/07/12/7/1436701605_77032172.jpg",
+      "name": "Котик выпивающий",
+      "price": 0
+    }
+  ]
+}
+
+
