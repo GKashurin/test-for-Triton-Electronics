@@ -14,7 +14,7 @@ const Home = () => {
 	const cartItems = useSelector(({ cart }) => cart.items);
 
 	useEffect(() => {
-		axios.get("http://localhost:3000/db.json")
+		axios.get("https://test-for-triton-electronics.herokuapp.com/db.json")
 		.then(({ data }) => {
 		dispatch(setCats(data));
 		});
